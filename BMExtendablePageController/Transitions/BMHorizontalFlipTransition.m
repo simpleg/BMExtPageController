@@ -8,7 +8,7 @@
 
 #import "BMHorizontalFlipTransition.h"
 #import "NSLayoutConstraint+PlacementHelper.h"
-#import <CAAnimationBlocks/CAAnimation+Blocks.h>
+#import "CAAnimation+Blocks.h"
 #import "NSView+BMImageRepresentation.h"
 
 @implementation BMHorizontalFlipTransition

@@ -8,7 +8,7 @@
 
 #import "BMCoreImageTransition.h"
 #import "NSLayoutConstraint+PlacementHelper.h"
-#import <CAAnimationBlocks/CAAnimation+Blocks.h>
+#import "CAAnimation+Blocks.h"
 
 
 @implementation BMCoreImageTransition
